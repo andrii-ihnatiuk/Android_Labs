@@ -5,7 +5,7 @@
 Знімок створеного в результаті виконання першого завдання вікна:
 
 <p align="center">
-  <img src="../imgs/Lab2/1.jpg" />
+  <img src="../imgs/Lab2/1.jpg" width="400"/>
 </p>
 
 ## Завдання №2
@@ -13,9 +13,9 @@
 Знімки створеного в результаті виконання другого завдання вікна:
 
 <p align="center">
-  <img src="../imgs/Lab2/2.jpg" />
+  <img src="../imgs/Lab2/2.jpg" width="400"/>
 </p>
 
 <p align="center">
-  <img src="../imgs/Lab2/3.jpg" />
+  <img src="../imgs/Lab2/3.jpg" width="400">
 </p>
