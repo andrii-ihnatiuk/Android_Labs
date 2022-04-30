@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabs">
+        <item>English</item>
+        <item>Ukrainian</item>
+        <item>Russian</item>
+    </string-array>
+
+    <string-array name="words_eng">
+        <item>System</item>
+        <item>Apple</item>
+        <item>Ukraine</item>
+        <item>Dinner</item>
+        <item>Food</item>
+        <item>Guitar</item>
+        <item>Pen</item>
+    </string-array>
+
+    <string-array name="words_ukr">
+        <item>Система</item>
+        <item>Яблуко</item>
+        <item>Україна</item>
+        <item>Вечеря</item>
+        <item>Їжа</item>
+        <item>Гітара</item>
+        <item>Ручка</item>
+    </string-array>
+
+    <string-array name="words_rus">
+        <item>Система</item>
+        <item>Яблоко</item>
+        <item>Украина</item>
+        <item>Ужин</item>
+        <item>Еда</item>
+        <item>Гитара</item>
+        <item>Ручка</item>
+    </string-array>
+</resources>
