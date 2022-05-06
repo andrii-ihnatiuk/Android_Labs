@@ -13,4 +13,5 @@
     <color name="background_color">#f5f6fa</color>
     <color name="on_primary">#2b2c3c</color>
     <color name="on_primary_var">#5d6574</color>
+    <color name="accent">#3d50fe</color>
 </resources>

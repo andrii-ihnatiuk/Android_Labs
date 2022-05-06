@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Thesaurus</string>
     <string name="sets">Term sets</string>
+    <string name="profile_placeholder">Profile</string>
+    <string name="user_name">Username</string>
+    <string name="user_name_placeholder">Your profile name</string>
 </resources>

@@ -5,17 +5,16 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.opsu.thesaurus.MainActivity
 import com.opsu.thesaurus.R
+import com.opsu.thesaurus.fragments.HomeFragment
 
-class SetsAdapter(private val inflater: LayoutInflater, val sets: List<MainActivity.Set>) : RecyclerView.Adapter<SetsAdapter.ViewHolder>()
+class SetsAdapter(private val inflater: LayoutInflater, private val sets: List<HomeFragment.SetModel>) : RecyclerView.Adapter<SetsAdapter.ViewHolder>()
 {
-
         class ViewHolder(view: View) : RecyclerView.ViewHolder(view)
         {
-            val setName = view.findViewById<TextView>(R.id.txtSetName)
-            val termsCount = view.findViewById<TextView>(R.id.txtTermsCount)
-            val author = view.findViewById<TextView>(R.id.txtSetAuthor)
+            val setName: TextView = view.findViewById(R.id.txtSetName)
+            val termsCount: TextView = view.findViewById(R.id.txtTermsCount)
+            val author:TextView = view.findViewById(R.id.txtSetAuthor)
         }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
