@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="96dp"
+    android:layout_height="96dp"
+    android:layout_margin="2dp"
+    android:background="@drawable/list_item_background">
+
+    <TextView
+        android:id="@+id/txtItem"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/list_item"
+        android:fontFamily="sans-serif-black"
+        android:textSize="25sp"
+        android:textColor="#323031"
+        android:gravity="center" />
+
+</FrameLayout>
