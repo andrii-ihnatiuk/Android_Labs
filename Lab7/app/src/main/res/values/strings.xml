@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab7 Ihnatiuk Andrii</string>
+    <string name="welcome">Welcome</string>
+    <string name="description">This application is made for creating dialogs and notifications when some of the folowing events happen:</string>
+    <string name="low_battery">- Low battery</string>
+    <string name="power_connection">- Power connection</string>
+    <string name="airplane_mode_switch">- Airplane mode switch</string>
+    <string name="author">Andrii Ihnatiuk, УІ-191</string>
+</resources>
